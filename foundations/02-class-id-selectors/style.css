@@ -1,0 +1,16 @@
+#myID1{
+    color:#0000ff;
+    font-size: 36px;
+}
+#myID2{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 900;
+}
+.oddNumbers{
+    background-color: hsl(350, 100%, 88%);
+    font-family: verdana,'Dejavu Sans',sans-serif;
+}
+.CoolClass{
+    font-size: 36px;
+}
